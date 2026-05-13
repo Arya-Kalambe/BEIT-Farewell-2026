@@ -1,4 +1,4 @@
-import { r as reactExports, V as jsxRuntimeExports } from "./server-Byn9N5Ms.js";
+import { r as reactExports, V as jsxRuntimeExports } from "./server-C165C-mX.js";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
@@ -8127,7 +8127,7 @@ function Hero() {
 }
 const m1 = "/assets/pic1-Ct4hyEqr.jpg";
 const m2 = "/assets/pic2-NFxXNnjk.jpg";
-const m3 = "/assets/pic3-DE8r8M4m.jpg";
+const m3 = "/assets/pic3-DA0AgMbZ.jpg";
 const m4 = "/assets/pic4-BlwBxIqN.jpg";
 const m5 = "/assets/pic5-BhNlHYiJ.jpg";
 const m6 = "/assets/pic6-l7zGIisa.jpg";

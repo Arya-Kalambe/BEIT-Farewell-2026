@@ -6,11 +6,11 @@
     "isDynamicEntry": true
   },
   "C:/Users/Dell/Downloads/forever-farewell-main/forever-farewell-main/src/styles.css": {
-    "file": "assets/styles-js6yulRr.css",
+    "file": "assets/styles-_ho2DTOt.css",
     "src": "C:/Users/Dell/Downloads/forever-farewell-main/forever-farewell-main/src/styles.css"
   },
-  "_server-Byn9N5Ms.js": {
-    "file": "assets/server-Byn9N5Ms.js",
+  "_server-C165C-mX.js": {
+    "file": "assets/server-C165C-mX.js",
     "name": "server",
     "isDynamicEntry": true,
     "dynamicImports": [
@@ -20,11 +20,11 @@
       "%23tanstack-start-plugin-adapters"
     ]
   },
-  "_worker-entry-BbYwmWYh.js": {
-    "file": "assets/worker-entry-BbYwmWYh.js",
+  "_worker-entry-D-x42j5g.js": {
+    "file": "assets/worker-entry-D-x42j5g.js",
     "name": "worker-entry",
     "dynamicImports": [
-      "_server-Byn9N5Ms.js"
+      "_server-C165C-mX.js"
     ]
   },
   "src/assets/Woh Din Chhichhore 128 Kbps.mp3": {
@@ -40,7 +40,7 @@
     "src": "src/assets/pic2.jpg"
   },
   "src/assets/pic3.jpg": {
-    "file": "assets/pic3-DE8r8M4m.jpg",
+    "file": "assets/pic3-DA0AgMbZ.jpg",
     "src": "src/assets/pic3.jpg"
   },
   "src/assets/pic4.jpg": {
@@ -56,32 +56,32 @@
     "src": "src/assets/pic6.jpg"
   },
   "src/router.tsx": {
-    "file": "assets/router-DTwMs2b-.js",
+    "file": "assets/router-DcG1Z2cc.js",
     "name": "router",
     "src": "src/router.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_server-Byn9N5Ms.js"
+      "_server-C165C-mX.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
     ],
     "assets": [
-      "assets/styles-js6yulRr.css"
+      "assets/styles-_ho2DTOt.css"
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-CVkiVToq.js",
+    "file": "assets/index-Bo4I1Nw5.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_server-Byn9N5Ms.js"
+      "_server-C165C-mX.js"
     ],
     "assets": [
       "assets/pic1-Ct4hyEqr.jpg",
       "assets/pic2-NFxXNnjk.jpg",
-      "assets/pic3-DE8r8M4m.jpg",
+      "assets/pic3-DA0AgMbZ.jpg",
       "assets/pic4-BlwBxIqN.jpg",
       "assets/pic5-BhNlHYiJ.jpg",
       "assets/pic6-l7zGIisa.jpg",
@@ -89,16 +89,16 @@
     ]
   },
   "src/start.ts": {
-    "file": "assets/start-RNu2cHW4.js",
+    "file": "assets/start-Dq-Gi4LJ.js",
     "name": "start",
     "src": "src/start.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-BbYwmWYh.js"
+      "_worker-entry-D-x42j5g.js"
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-DEn5RxLL.js",
+    "file": "assets/_tanstack-start-manifest_v-Byse4MES.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -109,7 +109,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-BbYwmWYh.js"
+      "_worker-entry-D-x42j5g.js"
     ]
   }
 }
