@@ -3,12 +3,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@layer utilities {
-  .dark & {
-    @apply dark;
-  }
-}
-
 /*
  * Design system definition.
  *
